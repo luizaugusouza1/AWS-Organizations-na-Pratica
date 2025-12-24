@@ -93,7 +93,7 @@ O **IAM Identity Center** foi integrado à organização para permitir:
 
 📌 *Visão da integração do IAM Identity Center com a organização:*
 
-![IAM Identity Center](./images/iam-identity-center.png)
+![IAM Identity Center](./images/images3.png)
 
 ---
 
