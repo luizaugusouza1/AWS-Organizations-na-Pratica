@@ -33,7 +33,7 @@ Cada OU agrupa contas com responsabilidades semelhantes, permitindo a aplicaçã
 
 📌 *Exemplo visual da organização:*
 
-![AWS Organizations - Estrutura](./images/aws-organizations-estrutura.png)
+![AWS Organizations - Estrutura](./images/multi-account.drawio.png)
 
 ---
 
