@@ -168,4 +168,4 @@ Apaixonado por AWS, DevOps, Segurança e Governança ☁️🚀
 
 Sugestões e melhorias são sempre bem-vindas!  
 Sinta-se à vontade para abrir issues ou enviar pull requests.
-
+-
